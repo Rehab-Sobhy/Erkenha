@@ -105,7 +105,7 @@ class _OnBoardingScreemState extends State<OnBoardingScreem>
               ),
               const Gap(40),
               MainButton(
-                text: "التالي",
+                text: "next".tr(),
                 backGroundColor: secondaryColor,
                 onTap: () async {
                   SharedPreferences prefs =
@@ -120,7 +120,7 @@ class _OnBoardingScreemState extends State<OnBoardingScreem>
               ),
               const Gap(20),
               MainButton(
-                text: "تخطى",
+                text: "skip".tr(),
                 backGroundColor: white,
                 textColor: Colors.black,
                 onTap: () async {

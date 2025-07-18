@@ -14,6 +14,7 @@ import 'package:parking_4/firebase_options.dart';
 import 'package:parking_4/home/places_cubit.dart';
 import 'package:parking_4/my_car/carCubit.dart';
 import 'package:parking_4/notifications/cubit.dart';
+import 'package:parking_4/on_boarding/on_boarding_view.dart';
 import 'package:parking_4/parkCar/parkCubit.dart';
 import 'package:parking_4/profile/cubit.dart';
 import 'package:parking_4/splach_screen.dart';
@@ -122,7 +123,7 @@ class MyApp extends StatelessWidget {
           localizationsDelegates: context.localizationDelegates,
           supportedLocales: context.supportedLocales,
           locale: context.locale,
-          home: SplashScreen(),
+          home: OnBoardingScreem(),
         ),
       ),
     );

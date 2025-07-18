@@ -1,5 +1,5 @@
 {
-  "logIn": "logIn",
+  "logIn": "login",
   "email": "Email",
   "password": "password",
   "forgetPassword": "Forget Password ?",
@@ -85,8 +85,8 @@
    "day":"Day",
    "time":"Time",
    "thereisparkinginsametimewiththesamecar": "There is already a reservation for this car at the same time",
- "areYouSureYouWantendVisit":"Are you sure you want to end parking ?"
+ "areYouSureYouWantendVisit":"Are you sure you want to end parking ?",
 
-   
+   "skip":"Skip","next":"Next"
 
 }

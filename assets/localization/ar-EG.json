@@ -85,5 +85,6 @@
   "time":"التوقيت",
   "thereisparkinginsametimewiththesamecar":" يوجد حجز مسبق بهذه السيارة في نفس الوقت",
 
-"areYouSureYouWantendVisit":"هل انت متأكد من انهاء الحجز"
+"areYouSureYouWantendVisit":"هل انت متأكد من انهاء الحجز",
+ "skip":"تخطي","next":"التالي"
 }
